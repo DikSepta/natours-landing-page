@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "landing page for natour company",
 	"main": "index.js",
+	"homepage": "https://diksepta.github.io/natours-landing-page/",
 	"scripts": {
 		"compile:sass": "node-sass sass/main.scss css/style.css -w"
 	},
